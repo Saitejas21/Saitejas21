@@ -17,7 +17,7 @@
 
 
 ### About Me 
-- :bowtie: I'm a student
+- 🎓 I'm a student
 - ⚡ I'm currently studying Bachelor's in Computer Applications
 - :heartpulse: I'm into Full Stack Web Development and I love gaming and I do Game Development too.  
 - 👯 I'm looking to collaborate on open source projects
