@@ -14,10 +14,6 @@
    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" align="center" width="40px" alt="linkedin"/>
 </a>
 
-<a href="https://www.twitter.com/saitejaspallavi">
-   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" align="center" width="40px" alt="linkedin"/>
-</a>
-
 
 
 ### About Me 
