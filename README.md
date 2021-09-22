@@ -2,16 +2,16 @@
 
 ### Connect me over here too-
 
-<a href="https://www.linkedin.com/in/saitejas-ar21">
+<a href="https://www.linkedin.com/in/saitejas-ar21" target="_blank" rel="noopener noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/s.t.a.r_ai/">
+<a href="https://www.instagram.com/s.t.a.r_ai/" target="_blank" rel="noopener noreferrer">
    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" align="center" width="40px" alt="instagram"/>
 </a>
 
-<a href="https://www.twitter.com/saitejaspallavi">
-   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" align="center" width="40px" alt="linkedin"/>
+<a href="https://www.twitter.com/saitejaspallavi" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" align="center" width="40px" alt="Twitter"/>
 </a>
 
 
@@ -27,6 +27,6 @@
 
 
 ### My Portfolio
-<a href="https://saitejasar.online">
-   <img src="https://github.com/Saitejas21/Saitejas21/blob/main/profile.png" align="center" width="40px" alt="linkedin"/>
+<a href="https://saitejasar.online" target="_blank" rel="noopener noreferrer">
+   <img src="https://github.com/Saitejas21/Saitejas21/blob/main/profile.png" align="center" width="40px" alt="portfolio"/>
 </a>
