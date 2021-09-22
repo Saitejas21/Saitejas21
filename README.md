@@ -1,10 +1,24 @@
 ## Hi there, I'm Sai Tejas <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Social Media Profiles
+### Connect me over here too-
 
 <a href="https://www.linkedin.com/in/saitejas-ar21">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
 </a>
+
+<a href="https://www.instagram.com/s.t.a.r_ai/">
+   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" align="center" width="40px" alt="instagram"/>
+</a>
+
+<a href="https://www.twitter.com/saitejaspallavi">
+   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" align="center" width="40px" alt="linkedin"/>
+</a>
+
+<a href="https://www.twitter.com/saitejaspallavi">
+   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" align="center" width="40px" alt="linkedin"/>
+</a>
+
+
 
 ### About Me 
 - :bowtie: I'm a student
