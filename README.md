@@ -1,12 +1,12 @@
 ## Hi there, I'm Sai Tejas <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-###Social Media Profiles
+### Social Media Profiles
 
 <a href="https://www.linkedin.com/in/saitejas-ar21">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="center" width="40px" alt="linkedin"/>
 </a>
 
-###About Me 
+### About Me 
 - :bowtie: I'm a student
 - ⚡ I'm currently studying Bachelor's in Computer Applications
 - :heartpulse: I'm into Full Stack Web Development and I love gaming and I do Game Development too.  
